@@ -79,7 +79,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         .buttons input[type="submit"] {
             padding: 10px 15px;
-            background: #d9534f;
+            background:rgb(82, 46, 45);
             color: white;
             border: none;
             cursor: pointer;

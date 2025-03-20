@@ -38,13 +38,13 @@ if (isset($_POST['save']) && !empty($_SESSION['hocphan'])) {
         body { font-family: Arial, sans-serif; background-color: #f4f4f9; text-align: center; }
         .menu { background: #222; padding: 10px; margin-bottom: 20px; }
         .menu a { color: white; text-decoration: none; padding: 10px 15px; font-weight: bold; }
-        .menu a:hover { background: rgba(255, 255, 255, 0.2); border-radius: 5px; }
+        .menu a:hover { background: rgba(97, 11, 11, 0.79); border-radius: 5px; }
         table { width: 80%; margin: auto; border-collapse: collapse; background: white; }
         th, td { padding: 10px; border: 1px solid #ddd; text-align: left; }
         th { background: #333; color: white; }
         .btn { background: #dc3545; color: white; padding: 5px 10px; border: none; cursor: pointer; border-radius: 5px; text-decoration: none; display: inline-block; }
         .btn:hover { background: #c82333; }
-        .clear-btn { background: #007bff; }
+        .clear-btn { background:rgb(138, 174, 213); }
         .clear-btn:hover { background: #0056b3; }
         .save-btn { background: #28a745; }
         .save-btn:hover { background: #218838; }

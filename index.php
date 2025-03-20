@@ -26,7 +26,7 @@ $result = $conn->query($sql);
             font-weight: bold;
         }
         .menu a:hover {
-            color: #ffcc00;
+            color:rgb(102, 83, 6);
         }
         h2 {
             margin-top: 20px;

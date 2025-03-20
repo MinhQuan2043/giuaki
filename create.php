@@ -39,7 +39,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
+            background-color:rgb(227, 237, 237);
             text-align: center;
             padding: 20px;
         }
@@ -53,7 +53,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             background: #fff;
             padding: 20px;
             border-radius: 10px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0px 0px 10px rgba(241, 241, 241, 0.1);
             margin: auto;
         }
 
@@ -75,8 +75,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         }
 
         input:focus, select:focus {
-            border-color: #007bff;
-            box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+            border-color:rgb(33, 205, 102);
+            box-shadow: 0 0 5px rgba(0, 241, 64, 0.94);
         }
 
         input[type="file"] {
@@ -84,7 +84,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         }
 
         input[type="submit"] {
-            background: #007bff;
+            background:rgb(1, 114, 71);
             color: white;
             border: none;
             cursor: pointer;
@@ -93,7 +93,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         }
 
         input[type="submit"]:hover {
-            background: #0056b3;
+            background:rgb(4, 140, 38);
         }
     </style>
 </head>

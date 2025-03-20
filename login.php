@@ -35,7 +35,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         .container { width: 30%; background: white; padding: 20px; margin: auto; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); }
         input[type="text"] { width: 90%; padding: 10px; margin: 10px 0; border: 1px solid #ccc; border-radius: 5px; }
         .btn { background: #007bff; color: white; padding: 10px 15px; border: none; cursor: pointer; border-radius: 5px; }
-        .btn:hover { background: #0056b3; }
+        .btn:hover { background:rgb(1, 14, 27); }
         .error { color: red; font-weight: bold; margin-bottom: 10px; }
     </style>
 </head>

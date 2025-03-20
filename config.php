@@ -3,7 +3,7 @@ $servername = "localhost"; // hoặc "127.0.0.1"
 $username = "root"; 
 $password = ""; // Nếu bạn chưa đặt mật khẩu cho root thì để trống
 $database = "test1"; 
-$port = 3306; // Thông thường là 3306
+$port = 3306; // 
 
 // Tạo kết nối
 $conn = new mysqli($servername, $username, $password, $database, $port);

@@ -4,12 +4,12 @@ body {
 }
 
 .menu {
-    background: black;
+    background: rgb(179, 165, 165);
     padding: 10px;
 }
 
 .menu a {
-    color: white;
+    color: rgb(34, 21, 213);
     margin: 10px;
     text-decoration: none;
 }
@@ -29,7 +29,7 @@ table {
 }
 
 th, td {
-    border: 1px solid black;
+    border: 1px solid rgb(51, 26, 148);
     padding: 10px;
     text-align: center;
 }
@@ -44,15 +44,15 @@ th, td {
 }
 
 input[type="submit"] {
-    background: blue;
-    color: white;
+    background: rgb(0, 255, 174);
+    color: rgb(229, 24, 24);
     padding: 10px;
     border: none;
     cursor: pointer;
 }
 
 a {
-    color: blue;
+    color: rgb(17, 220, 95);
     text-decoration: none;
     margin: 10px;
 }

@@ -70,7 +70,7 @@ $result = $conn->query($sql);
         th, td { padding: 10px; border: 1px solid #ddd; text-align: left; }
         th { background: #333; color: white; }
         .btn { background: #28a745; color: white; padding: 5px 10px; border: none; cursor: pointer; border-radius: 5px; }
-        .btn:hover { background: #218838; }
+        .btn:hover { background:rgb(156, 207, 167); }
         .thongbao { background: #d4edda; color: #155724; padding: 10px; margin: 20px auto; width: 60%; border-radius: 5px; border: 1px solid #c3e6cb; display: <?= empty($thongBao) ? 'none' : 'block' ?>; }
     </style>
 </head>
