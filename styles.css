@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.menu {
+    background: black;
+    padding: 10px;
+}
+
+.menu a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+p, form {
+    margin: 10px;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+.add-btn {
+    display: inline-block;
+    background: green;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    margin: 20px;
+}
+
+input[type="submit"] {
+    background: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+    margin: 10px;
+}
